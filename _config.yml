@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "My blog"
+title: "Red Queen Solutions"
+author: "RQS"
+description: "Blog on Red Queen Solutions"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -18,13 +18,11 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:mail@jreb.nl"}
+  - {title: Github, icon: github, url: "https://github.com/Red-Queen-Solutions-BV"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
